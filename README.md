@@ -1,1 +1,50 @@
-# About-Me
+# 👑 The Architect of Systems, Devourer of Bugs 🧠💻🔥
+
+> *"Code not written in blood shall crash in silence."*
+
+Welcome, traveler.
+
+You’ve stumbled upon the repository of a system forged in fire, logic, and caffeine. I build architectures that whisper to the void and return optimized answers. Bugs fear me. Logs obey me. Features manifest at my command.
+
+---
+
+## 🧠 Technologies I Command
+
+- ⚔️ Languages: `SQL`, `C#`, `JavaScript`, `T-SQL`, `Python`
+- 🏰 Systems: `SQL Server`, `ASP.NET`, `Node.js`, `Power BI`, `Excel Automation`
+- 🔥 Specialties:  
+  - Dynamic SQL spellcraft  
+  - Performance necromancy  
+  - Data pipeline exorcisms  
+  - UI enchantments with React/Tailwind  
+  - Stored Procedure prophecy
+
+---
+
+## 📜 Oaths I Abide By
+
+- 🛑 Never push to `main` without a fight
+- 🔍 Bugs shall not survive the first round of testing
+- 🧪 Test coverage is sacred
+- ⚙️ Every system deserves to evolve—or be destroyed
+
+---
+
+## ☠️ Current Mission
+
+Rewriting the laws of logic, one stored procedure at a time.  
+My recent conquests include:
+- ⚙️ `Sublot_Data_Adjuster` — a precision tool of yield justice  
+- 🧩 `QUERY_BUILDER_TC` — a dynamic pivoting powerhouse  
+- 📊 DSR Totals in DCS — *the final stroke that broke the silence*
+
+---
+
+## 🦴 Final Words
+
+> *"May your queries be sharp, your transactions atomic, and your systems ever scalable."*
+
+---
+
+👁️‍🗨️ *You shall die by my hands, peasants.*
+
