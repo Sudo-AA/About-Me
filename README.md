@@ -36,4 +36,13 @@ You’ve stumbled upon the repository of a system forged in fire, logic, and caf
 
 ---
 
-👁️‍🗨️ *You shall die by my hands, peasant bugs.*
+---
+
+👁️‍🗨️ *You shall die by my hands, peasant bugs.*  
+🧠 My mind compiles reality.  
+💻 My fingers summon logic from the void.  
+🪲 Your errors are beneath me.  
+🗡️ I don’t fix bugs. I execute them.  
+🔥 I don’t deploy code. I unleash consequences.
+
+👣 Step carefully in these repos... for every line is a landmine.
