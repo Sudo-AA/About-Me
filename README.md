@@ -23,10 +23,10 @@ You’ve stumbled upon the repository of a system forged in fire, logic, and caf
 
 ## 📜 Oaths I Abide By
 
-- 🛑 Never push to `main` without a fight
-- 🔍 Bugs shall not survive the first round of testing
-- 🧪 Test coverage is sacred
-- ⚙️ Every system deserves to evolve—or be destroyed
+- 🛑 Never push to `main` without a fight  
+- 🔍 Bugs shall not survive the first round of testing  
+- 🧪 Test coverage is sacred  
+- ⚙️ Every system deserves to evolve—or be destroyed  
 
 ---
 
@@ -36,5 +36,4 @@ You’ve stumbled upon the repository of a system forged in fire, logic, and caf
 
 ---
 
-👁️‍🗨️ *You shall die by my hands, peasants.*
-
+👁️‍🗨️ *You shall die by my hands, peasants bugs.*  
