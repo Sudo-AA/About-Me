@@ -36,4 +36,4 @@ You’ve stumbled upon the repository of a system forged in fire, logic, and caf
 
 ---
 
-👁️‍🗨️ *You shall die by my hands, peasants bugs.*  
+👁️‍🗨️ *You shall die by my hands, peasant bugs.*
