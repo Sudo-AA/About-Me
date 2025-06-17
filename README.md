@@ -2,6 +2,8 @@
 
 > *“Born of logic. Forged in flame. Feared in every deployment zone.”*
 
+![Sudo-AA Banner](https://raw.githubusercontent.com/user/banner/main/sudo-aa-banner.png)
+
 ## 🧙 Character Class  
 **Title:** Architect of Systems  
 **Role:** Full-Stack Spellcaster / Data Sorcerer  
@@ -28,7 +30,7 @@
 
 - 🩸 Blood-bound to version control  
 - ⛓️ Immune to scope creep  
-- ⚙️ Able to deploy during production hours (legend says… without fear)
+- ⚙️ Able to deploy during production hours *(legend says… without fear)*
 
 ---
 
@@ -66,6 +68,21 @@
 
 ---
 
-🪓 May your `merge conflicts` be few and your `unit tests` be critical hits.  
-👁️‍🗨️ Add `Sudo-AA` to your party, or perish in spaghetti code.
+## 🧰 Signature Block (for `.bashrc`, commits, or banners)
 
+```bash
+🛡️ Sudo-AA — Architect of Systems | Devourer of Bugs
+⚙️ Level 99 Full-Stack Spellcaster | House of Refactors
+
+"Born of logic. Forged in flame. Feared in every deployment zone."
+
+🔥 I don't deploy code. I unleash consequences.
+💀 I don’t patch. I purge.
+🧠 Mind compiled. Reality interpreted.
+```
+
+---
+
+## 🧙‍♂️ Add `Sudo-AA` to your party, or perish in spaghetti code.
+
+🪓 May your `merge conflicts` be few and your `unit tests` be critical hits.
