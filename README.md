@@ -2,7 +2,7 @@
 
 > *“Born of logic. Forged in flame. Feared in every deployment zone.”*
 
-![Sudo-AA Banner](https://raw.githubusercontent.com/user/banner/main/sudo-aa-banner.png)
+![SUDO-AA-BANNER](https://github.com/user-attachments/assets/6a7fed07-9bcc-401d-960b-c1aa61751adc)
 
 ## 🧙 Character Class  
 **Title:** Architect of Systems  
